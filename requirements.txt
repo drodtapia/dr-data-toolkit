@@ -1,7 +1,7 @@
-pandas
-openpyxl
-pyarrow
-Pillow
+pandas>=2.2,<3.0
+numpy>=2.2,<3.0
+openpyxl>=3.1,<4.0
+pyarrow>=20,<21
+Pillow>=10,<12
 pytest
-jupyter
 ipykernel
